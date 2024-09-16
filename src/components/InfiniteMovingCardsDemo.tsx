@@ -38,7 +38,7 @@ export function InfiniteMovingCardsDemo() {
 // First Image Data (Existing Images)
 const images = [
   {
-    src: "https://res.cloudinary.com/dqm8rxpzq/image/upload/v1726385151/react-1-logo-png-transparent_e6hoaw.png",
+    src: "https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg",
     alt: "React Logo",
   },
   {
@@ -50,7 +50,7 @@ const images = [
     alt: "Node.js Logo",
   },
   {
-    src: "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png",
+    src: "https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg",
     alt: "TypeScript Logo",
   },
   {
@@ -66,8 +66,8 @@ const techStackImages = [
     alt: "Firebase Logo",
   },
   {
-    src: "https://res.cloudinary.com/dqm8rxpzq/image/upload/v1726387573/640px-Postgresql_elephant.svg_tc4ejs.png",
-    alt: "MySQL Logo",
+    src: "https://upload.wikimedia.org/wikipedia/commons/2/29/Postgresql_elephant.svg",
+    alt: "PostgreSQL Logo",
   },
   {
     src: "https://res.cloudinary.com/dqm8rxpzq/image/upload/v1726387641/1_doAg1_fMQKWFoub-6gwUiQ_gkbo9o.png",
